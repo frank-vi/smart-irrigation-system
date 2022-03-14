@@ -1,0 +1,50 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "agricoltore smart",
+          "intents": [
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "IrrigationIntent",
+                  "slots": [],
+                  "samples": [
+                      "avvia la pompa di irrigazione",
+                      "comincia ad irrigare",
+                      "fai partire la pompa d'acqua",
+                      "fai partire fai partire la pompa",
+                      "inizia irrigazione",
+                      "avvia irrigazione",
+                      "accendi la pompa",
+                      "apri l'acqua",
+                      "apri il rubinetto",
+                      "dai l'acqua alle piante",
+                      "fai partire l'irrigazione",
+                      "avvia la pompa d'acqua",
+                      "inizia ad irrigare",
+                      "irriga"
+                  ]
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.YesIntent",
+                  "samples": []
+              }
+          ],
+          "types": []
+      }
+  }
+}

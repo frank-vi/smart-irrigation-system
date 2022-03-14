@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Smart City Project",
+          "examplePhrases": [
+            "Alexa open agricoltore smart",
+            "irrigation command",
+            "help"
+          ],
+          "name": "Smart City",
+          "description": "Sample Full Description"
+        },
+        "it-IT": {
+          "summary": "Agricoltore Smart - Smart City Project",
+          "examplePhrases": [
+            "Alexa apri agricoltore smart",
+            "Avvia irrigazione",
+            "aiuto"
+          ],
+          "name": "Smart City",
+          "description": "Sample Full Description"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:662312746705:function:ask-smartcity-default-default-1608036649732"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

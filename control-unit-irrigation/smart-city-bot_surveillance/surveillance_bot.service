@@ -1,0 +1,12 @@
+[Unit]
+Description=SurveillanceTelegram Bot Service
+Wants=network.target
+After=network.target
+
+[Service]
+ExecStartPre=/bin/sleep 10
+ExecStart=/home/smartcity/virtualenv/bin/python3 /home/smartcity/project/control-unit-irrigation/smart-city-bot_surveillance/start.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

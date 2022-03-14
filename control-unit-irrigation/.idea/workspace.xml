@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93e94669-ebdd-4dca-b485-cab7a03299da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/feeding-drone/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feeding-drone/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/awsiotcore/aws.py" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/awsiotcore/aws.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/aggregator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/awsclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/bluetooth.py" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/boundary/bluetooth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/collector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/periodic_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/boundary/proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/database/gateway-dev.db" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/database/gateway-dev.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/irrigation-system/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/irrigation-system/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-city-bot_manager/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/smart-city-bot_manager/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ljzxe1QcYgRAIrotLpMDPsTbGS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="credentialsType com.jetbrains.python.remote.PyCreateRemoteInterpreterDialog$PyCreateRemoteSdkForm" value="Web Deployment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="control-unit-irrigation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/irrigation-system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/irrigation-system/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e94669-ebdd-4dca-b485-cab7a03299da" name="Default Changelist" comment="" />
+      <created>1608125642265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608125642265</updated>
+      <workItem from="1608125644275" duration="9225000" />
+      <workItem from="1608193243074" duration="1628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/control_unit_irrigation$start.coverage" NAME="start Coverage Results" MODIFIED="1608194851109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/irrigation-system" />
+  </component>
+</project>

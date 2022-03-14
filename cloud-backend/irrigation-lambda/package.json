@@ -1,0 +1,17 @@
+{
+  "name": "smartcitylambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "locally": "node -e \"console.log(require('./index').handler({}));\""
+  },
+  "author": "Francesco Vignola",
+  "license": "ISC",
+  "dependencies": {
+    "aws-mqtt": "^1.0.0",
+    "aws-sdk": "^2.812.0",
+    "ws": "^7.4.1"
+  }
+}
